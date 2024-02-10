@@ -1,0 +1,4 @@
+Pegar dados (texto) -> sobrepor uma imagem (certificado padrao)
+
+Pillow - sobrepor texto
+openpyxl - Ler dados de uma planilha
